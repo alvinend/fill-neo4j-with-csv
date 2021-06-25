@@ -1,0 +1,9 @@
+{
+  "name": "fill-neo4j-with-csv",
+  "version": "1.0.0",
+  "description": "Fill Neo4j test server with mock data from csv",
+  "main": "index.js",
+  "repository": "https://github.com/alvinend/fill-neo4j-with-csv",
+  "author": "alvinend",
+  "license": "MIT"
+}
