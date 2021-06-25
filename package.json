@@ -5,5 +5,8 @@
   "main": "index.js",
   "repository": "https://github.com/alvinend/fill-neo4j-with-csv",
   "author": "alvinend",
-  "license": "MIT"
+  "license": "MIT",
+  "dependencies": {
+    "dotenv": "^10.0.0"
+  }
 }
